@@ -104,6 +104,17 @@ Focused on web application security, access control flaws, and sensitive data ex
 ![Hashcat](https://img.shields.io/badge/Hashcat-4C4C4C?style=for-the-badge&logo=hashcat&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
 
+### Kali Linux Tools
+
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Hydra](https://img.shields.io/badge/Hydra-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Gobuster](https://img.shields.io/badge/Gobuster-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Nikto](https://img.shields.io/badge/Nikto-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![WPScan](https://img.shields.io/badge/WPScan-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Responder](https://img.shields.io/badge/Responder-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![BloodHound](https://img.shields.io/badge/BloodHound-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Impacket](https://img.shields.io/badge/Impacket-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+
 ### Recon & Exploitation
 
 ![ffuf](https://img.shields.io/badge/ffuf-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
@@ -111,6 +122,8 @@ Focused on web application security, access control flaws, and sensitive data ex
 ![httpx](https://img.shields.io/badge/httpx-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
 ![nuclei](https://img.shields.io/badge/nuclei-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
 ![sqlmap](https://img.shields.io/badge/sqlmap-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![amass](https://img.shields.io/badge/amass-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![gau](https://img.shields.io/badge/gau-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
 
 ### Programming Languages
 
@@ -137,6 +150,10 @@ Focused on web application security, access control flaws, and sensitive data ex
 
 ![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco_Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![DICT Ethical Hacking](https://img.shields.io/badge/DICT_Ethical_Hacking-0038A8?style=for-the-badge&logo=gov.ph&logoColor=white)
+![Data Science Essentials with Python](https://img.shields.io/badge/Data_Science_Essentials_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CompTIA Data Analysis](https://img.shields.io/badge/CompTIA_Data_Analysis-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
+![DICT Python](https://img.shields.io/badge/DICT_Python-0038A8?style=for-the-badge&logo=python&logoColor=white)
+![Data Collection and Annotation](https://img.shields.io/badge/Data_Collection_%26_Annotation-4EAA25?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
 
@@ -183,36 +200,17 @@ Team CTF strategy and category playbooks for national competition.
 </td>
 <td width="50%" valign="top">
 
-### Security Research
+### GitHub Profile
 
-Bug bounty findings, writeups, and responsible disclosure reports.
+Red team themed profile with tactical layout and tech arsenal.
 
-**Stack:** Burp Suite · Python · Recon
+**Stack:** Markdown · Badges · Portfolio
 
-<a href="https://github.com/azzzriieell00?tab=repositories"><img src="https://img.shields.io/badge/View_All-ff2a2a?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/azzzriieell00/azzzriieell00"><img src="https://img.shields.io/badge/View_Repo-ff2a2a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=azzzriieell00&show_icons=true&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff2a2a&icon_color=ff2a2a&text_color=b8c8bb" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzzriieell00&layout=compact&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff2a2a&text_color=b8c8bb" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azzzriieell00&theme=dark&hide_border=true&background=0a0000&stroke=ff2a2a&ring=ff2a2a&fire=ff2a2a&currStreakLabel=ff2a2a" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azzzriieell00&bg_color=0a0000&color=ff2a2a&line=ff2a2a&point=ffffff&hide_border=true" />
-
-</div>
 
 ---
 
