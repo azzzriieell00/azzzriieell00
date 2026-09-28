@@ -20,7 +20,7 @@
 
 I'm a **1st-year Software Engineering student** at **Aklan State University** focused on offensive security and ethical hacking. I break things to make them stronger.
 
-I spend my time hunting for vulnerabilities, building custom security tooling, and reporting real findings through official disclosure programs. My approach combines automation with deep manual analysis — because the best bugs hide where scanners don't look.
+I spend my time hunting for vulnerabilities, building custom security tooling, and reporting real findings through official disclosure programs. I'm just starting my entry level in the cyber world.
 
 ---
 
