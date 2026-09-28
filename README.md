@@ -202,9 +202,7 @@ Team CTF strategy and category playbooks for national competition.
 
 ### GitHub Profile
 
-Red team themed profile with tactical layout and tech arsenal.
-
-**Stack:** Markdown · Badges · Portfolio
+Patoo404
 
 <a href="https://github.com/azzzriieell00/azzzriieell00"><img src="https://img.shields.io/badge/View_Repo-ff2a2a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
