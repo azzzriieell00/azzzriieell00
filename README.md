@@ -205,7 +205,7 @@ Team CTF strategy and category playbooks for national competition.
 Patoo404, Be calm in chaos, unpredictable in strategy,
 and free from the need to be understood.
 
-lil script kiddo.
+lil script kiddo. patoo404
 
 <a href="https://github.com/azzzriieell00/azzzriieell00"><img src="https://img.shields.io/badge/View_Repo-ff2a2a?style=for-the-badge&logo=github&logoColor=white" /></a>
 
