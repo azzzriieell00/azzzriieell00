@@ -106,14 +106,14 @@ Focused on web application security, access control flaws, and sensitive data ex
 
 ### Kali Linux Tools
 
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![Hydra](https://img.shields.io/badge/Hydra-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![Gobuster](https://img.shields.io/badge/Gobuster-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![Nikto](https://img.shields.io/badge/Nikto-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![WPScan](https://img.shields.io/badge/WPScan-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![Responder](https://img.shields.io/badge/Responder-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![BloodHound](https://img.shields.io/badge/BloodHound-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![Impacket](https://img.shields.io/badge/Impacket-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=aircrackng&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![WPScan](https://img.shields.io/badge/WPScan-1E824C?style=for-the-badge&logo=wordpress&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![BloodHound](https://img.shields.io/badge/BloodHound-E31B23?style=for-the-badge&logo=neo4j&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Recon & Exploitation
 
