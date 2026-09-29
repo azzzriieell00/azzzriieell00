@@ -117,13 +117,13 @@ Focused on web application security, access control flaws, and sensitive data ex
 
 ### Recon & Exploitation
 
-![ffuf](https://img.shields.io/badge/ffuf-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![subfinder](https://img.shields.io/badge/subfinder-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![httpx](https://img.shields.io/badge/httpx-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![nuclei](https://img.shields.io/badge/nuclei-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![sqlmap](https://img.shields.io/badge/sqlmap-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![amass](https://img.shields.io/badge/amass-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
-![gau](https://img.shields.io/badge/gau-1A1A1A?style=for-the-badge&logo=gnometerminal&logoColor=ff2a2a)
+![ffuf](https://img.shields.io/badge/ffuf-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![subfinder](https://img.shields.io/badge/subfinder-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![httpx](https://img.shields.io/badge/httpx-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![nuclei](https://img.shields.io/badge/nuclei-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![sqlmap](https://img.shields.io/badge/sqlmap-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![amass](https://img.shields.io/badge/amass-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
+![gau](https://img.shields.io/badge/gau-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 ### Programming Languages
 
